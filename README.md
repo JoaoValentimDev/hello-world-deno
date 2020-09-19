@@ -14,29 +14,29 @@ Além de tudo isso ele é **cross-platform**, ou seja, ele roda no Linux, Mac  e
 
 ## Como instalar o deno?
 
-1.  Windows (PowerShell)
+1. Windows (PowerShell)
 
-    ```pow
+   ```pow
    iwr https://deno.land/x/install/install.ps1 -useb | iex
-    ```
+   ```
 
-2.  Mac e Linux
+2. Mac e Linux
 
-    ```sh
+   ```sh
    $ curl -fsSL https://deno.land/x/install/install.sh | sh
-    ```
+   ```
 
-3.  Homebrew (Mac)
+3. Homebrew (Mac)
 
    ```sh
    $ brew install deno
    ```
 
-4.  [Chocolatey](https://chocolatey.org/packages/deno) (Windows)
+4. [Chocolatey](https://chocolatey.org/packages/deno) (Windows)
 
-    ```pow
+   ```pow
    choco install deno
-    ```
+   ```
 
 ## Ferramentas
 
